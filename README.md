@@ -1,6 +1,6 @@
 <h1 align="center">Adnan Bima</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Currently+wiring+up+a+robot+pet+on+an+ESP8266;Modeling+an+Odoo+ERP+for+a+milk+tea+chain;Laravel+by+day%2C+breadboards+by+night&font=Fira+Code&center=true&width=480&height=30&color=2E86AB&vCenter=true&size=16&pause=2200" alt="status line"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=what?;i+love+cat;&font=Fira+Code&center=true&width=480&height=30&color=2E86AB&vCenter=true&size=16&pause=2200" alt="status line"/>
 </p>
 
 <p align="center">
