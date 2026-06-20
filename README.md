@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=220&section=header&text=ROZIQIN%20//%20PORTAL&fontSize=45&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=220&section=header&text=&fontSize=45&animation=twinkling)
 
 ### 👋 Hi there, I'm Adnan!
 
