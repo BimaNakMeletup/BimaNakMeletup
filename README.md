@@ -1,4 +1,4 @@
-<h1 align="center">🐱 Halo, Adnan Bima di sini! 🤖</h1>
+<h1 align="center">Halo</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Ngelas+ngelus;What?;I+love+cats;&font=Fira+Code&center=true&width=500&height=40&color=FF6B6B&vCenter=true&size=18&pause=1500" alt="status line"/>
