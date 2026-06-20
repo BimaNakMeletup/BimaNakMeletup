@@ -1,12 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=220&section=header&text=&fontSize=45&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=220&section=header&text=ADNAN%20BIMA%20//%20PORTAL&fontSize=45&animation=twinkling)
 
-### 👋 Hi there, I'm Adnan!
+### 👋 Hi there, I'm Adnan Bima!
 
 I am a passionate **Front-end and Back-end Developer** dedicated to building clean, efficient, and user-centric web and mobile applications. I enjoy architectural challenges, creating robust APIs, and crafting minimalist yet aesthetic user experiences.
 
 <p align="left">
   <a href="https://instagram.com/bima_sukaturu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:your.bushigt81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:adnan.43323203@mhs.polines.ac.id"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ---
@@ -56,12 +56,12 @@ I am a passionate **Front-end and Back-end Developer** dedicated to building cle
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BimaNakMeletup&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BimaNakMeletup&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=7&hide_border=true" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BimaNakMeletup&layout=compact&theme=tokyonight&langs_count=7&hide_border=true" alt="Top Languages" height="180px"/>
 </p>
 
 ---
